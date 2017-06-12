@@ -1,0 +1,6 @@
+set gem_name Gemstone
+set gem_pic bzgem
+set gem_desc My gemstone. It shows that I am a Zircon, a lawyer of sorts.
+set zircon$_name Blue Zircon
+set zircon$_pic zircon
+set zircon$_desc Gem: Zircon{n}Diamond: Blue
