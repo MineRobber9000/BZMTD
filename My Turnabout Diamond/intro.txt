@@ -1,11 +1,11 @@
-nt ???
-"Oh no..."
-"What have I done?"
-"Nobody can know I did this!"
-"Guess I'll have to call in some favors..."
+nt
+".{p 15}.{p 15}."
+"What?!"
+"Get back here!"
+"Hello? {p 15}My diamond? {p 15}Rose Quartz has shattered Pink Diamond!"
 pause 30
 nt
 "Blue Zircon: {p 30}My Turnabout Diamond"
-bg whiteroom fade
+bg whiteroom
 "NYI"
 endscript
