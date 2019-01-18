@@ -2,10 +2,10 @@ nt
 ".{p 15}.{p 15}."
 "What?!"
 "Get back here!"
-"Hello? {p 15}My diamond? {p 15}Rose Quartz has shattered Pink Diamond!"
+"Hello? {p 15}{s 30}Rose Quartz has shattered Pink Diamond!"
 pause 30
 nt
 "Blue Zircon: {p 30}My Turnabout Diamond"
-bg whiteroom
+bg pretrialroom fade
 "NYI"
 endscript
